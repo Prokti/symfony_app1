@@ -1,0 +1,5 @@
+easy_admin:
+    entities:
+        - AppBundle\Entity\Product
+        - AppBundle\Entity\Category
+        - AppBundle\Entity\User
