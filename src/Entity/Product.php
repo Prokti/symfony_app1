@@ -17,6 +17,5 @@ class Product
     private $id;
 
 
-    
     // add your own fields
 }
